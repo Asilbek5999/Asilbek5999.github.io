@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css?family=Spectral+SC:400,700');
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+body{
+	margin:0;
+	padding: 0;
+}
+
+
+
+nav {
+	text-align: left;
+    color: white;
+	font-size: 30px;
+	background-color: #153c57;
+	margin bottom : 0px;
+	padding: 1px 0px 0px 20px;
+
+	height: 40px;
+	
+	height: 
+}
+
+nav ul{
+	display: inline;
+	text-decoration: none;
+}
+nav ul li { 
+	display: inline-block;
+	text-decoration: none;
+	padding-right: 15px;
+	padding-left: 0px;
+
+}
+nav ul li a
+{ 
+	text-align: left;
+	color: white;
+	text-decoration: none;
+}
+
+a:hover
+{
+	color: black;
+	background-color:  red;
+	padding: 2px 5px 5px 5px;
+}
+#nav
+{
+	font-family: 'Montserrat', sans-serif;
+}
+
+header 
+{
+	text-align: center;
+	font-size: 35px;
+	background-color: #932323;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+
+}
+.block1 {
+	text-align: center;
+	padding: 1px 0px 0px 20px;
+	height: auto;
+	font-family: "Castellar";
+background-color: #2b293f;
+	color: white;
+
+
+
+}
+.block1 h1{
+	
+margin: 0px 0px 0px 0px;
+}
+.block1 p{
+	font-size: 20pt;
+	 
+	margin: 0px 0px 0px 0px;
+}
+.mainblock
+{
+	background-color: black;
+	width: auto;
+	
+padding-top: 0px;
+	padding-bottom: 0px;
+	height: 500px;
+	
+
+}
+ 
+.m1 
+{
+	font-size: 30px;
+	display: inline-block;
+	float :top 0px;
+	background-color: white;	
+	font-family: "Castellar";
+	width:500px;
+	margin-left: 30px;
+	margin-top: 50px;
+	padding: 50px 50px 50px 0px;
+	height: 200px;
+	float: left;
+
+	
+
+
+
+}
+.m1 > ul > li {
+	display: inline;
+	padding-left: 0px;
+}
+
+
+.m2
+{ 
+	display: inline-block;
+	padding: 50px 50px 50px 50px ;
+	margin: 0px;
+	float: right;
+		
+	
+
+}
+.m2 > img {
+		width:650px;
+	height: 300px;
+}
